@@ -1,0 +1,24 @@
+{
+  "name": "cli21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ev_group48": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.3.3",
+    "chalk": "^4.1.0",
+    "esm": "^3.2.25",
+    "minimist": "^1.2.5",
+    "mocha": "^8.3.1",
+    "moment": "^2.29.1",
+    "yargs": "^16.2.0"
+  }
+}

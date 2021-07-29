@@ -1,0 +1,20 @@
+#!/bin/sh
+node ./ImportChargerTypes.js
+node ./ImportCheckinStatusTypes.js
+node ./ImportConnectionTypes.js
+node ./ImportCountries.js
+node ./ImportCurrentTypes.js
+node ./ImportDataProviders.js
+node ./ImportDataTypes.js
+node ./ImportOperators.js
+node ./ImportStatusTypes.js
+node ./ImportSubmissionStatusTypes.js
+node ./ImportUsageTypes.js
+node ./ImportUserCommentTypes.js
+node ./ImportEnergyProviders.js
+node ./ImportEnergyPrices.js
+node ./ImportStations.js
+node ./ImportPointsMod.js
+node ./ParseVehicles.js
+node ./ImportElectricVehicles.js
+node ./ImportSessions.js
