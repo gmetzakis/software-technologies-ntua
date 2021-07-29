@@ -1,3 +1,8 @@
+# Collaborates: 
+**Skoufis Petros: https://github.com/pskoufis13  
+Anastasakis Zacharias: https://github.com/ZachariasAnastasakis    
+Antoniou Konstantinos: https://github.com/KonstantinosAntoniou**
+
 # Documentation
 
 Ενδεικτικά περιεχόμενα:
